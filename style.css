@@ -1,0 +1,29 @@
+h1, p {
+  font-family: Lato;
+}
+
+table{
+  text-align: center;
+  margin-left: 30%
+}
+
+th, td {
+  border: solid 1px #bbbbbb;
+  padding:6px;
+
+}
+
+button{
+  padding: 6px;
+  box-shadow: 2px 2px 2px #bbbbbb
+}
+
+.btn{
+  display:flexbox;
+  margin-left: 30%
+}
+
+button{
+  margin-right: 2.6%;
+  margin-top: 3%;
+}
